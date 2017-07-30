@@ -1,0 +1,33 @@
+webpack => {
+	webpack
+	webpack-dev-server
+}
+
+babel => {
+	babel-core
+	babel-loader
+	babel-plugin-react-html-attrs
+	babel-plugin-transform-object-rest-spread
+	babel-preset-es2015
+	babel-preset-react
+}
+
+style => {
+	css-loader
+	style-loader
+	file-loader
+	extract-text-webpack-plugin
+}
+
+react => {
+	react
+	react-dom
+	react-redux
+	redux
+	redux-form
+	redux-multi
+	redux-thunk
+	redux-promise
+	react-router-dom
+	react-redux-toastr
+}
